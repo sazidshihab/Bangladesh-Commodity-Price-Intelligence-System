@@ -85,8 +85,7 @@ External variables sometimes become statistically weak due to structural volatil
 
 ## 🖥 Live Dashboard
 
-Interactive visualization built using Retool.
-Provides:
+Interactive visualization built using Retool.Provides,
 Historical price trends
 Model comparison (d=0 vs d=1)
 Shock impact visualization
