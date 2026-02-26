@@ -108,13 +108,13 @@ GitHub
 Bangladesh’s commodity market is highly shock-sensitive and innovation-driven.
 This system attempts to statistically structure a market that is often perceived as unstable and intervention-driven.
 
-## It serves as:
-### A forecasting tool
-### A market behavior analysis system
-### A portfolio-grade econometric project
-### A policy-impact exploration framework
+It serves as:
+A forecasting tool
+A market behavior analysis system
+A portfolio-grade econometric project
+A policy-impact exploration framework
 
 ## 📌 Author
 
 ## Sazid Shihab
-## Data Analyst | Time Series & Market Intelligence Enthusiast
+ Data Analyst | Time Series & Market Intelligence Enthusiast
