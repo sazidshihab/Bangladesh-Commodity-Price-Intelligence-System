@@ -1,0 +1,6 @@
+1. "Data to Predict" folder contains data for each product needed to test the model in the near future.
+Simply to forecast, the model needs pre-ready data(future date, exogenous values). This folder contains those.
+
+2. "Actual Data" folder contains actual past data of each product. Those will be fed to the model for training.
+
+3. "Predicted Data" folder contains multiple folders. D=0 model forecast future price. D=1 model forecasts future momentum(price difference) and also in the upper and lower bounds.
