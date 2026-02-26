@@ -120,13 +120,7 @@ A policy-impact exploration framework
 ## 📌 Author
 
 ## Sazid Shihab  
- Data Analyst | Time Series & Market Intelligence Enthusiast 
-<h3>🚀 LinkedIn</h3>
-<a href="https://www.linkedin.com/in/sazid-shihab/" target="_blank">
-  🔗 LinkedIn
-</a>  
-<h3>🚀 CV</h3>
-<a href="https://drive.google.com/file/d/1yeq0wLE7JvPPrXFaJ5ax-Ar9CbzXyKzC" target="_blank">
-  🔗 CV
-</a> 
-
+Data Analyst | Time Series & Market Intelligence Enthusiast 
+🔗 [LinkedIn]("https://www.linkedin.com/in/sazid-shihab/")  
+🔗 [CV]("https://drive.google.com/file/d/1yeq0wLE7JvPPrXFaJ5ax-Ar9CbzXyKzC")  
+ 
