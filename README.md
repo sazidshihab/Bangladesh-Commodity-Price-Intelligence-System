@@ -1,4 +1,4 @@
-#🇧🇩 Bangladesh Commodity Price Intelligence System
+##🇧🇩 Bangladesh Commodity Price Intelligence System
 
 A data-driven time series forecasting and market intelligence system designed to analyze, model, and predict essential commodity prices in Bangladesh.
 
@@ -38,7 +38,8 @@ Flood Shock
 
 Seasonal Structure (Winter, Pre-Monsoon, Monsoon, Post-Monsoon)
 
-🏗 Project Architecture
+##🏗 Project Architecture
+```
 Bangladesh-Commodity-Price-Intelligence-System
 │
 ├── Project Data
@@ -77,7 +78,7 @@ Bangladesh-Commodity-Price-Intelligence-System
 │   └── Dashboard Link
 │
 └── README.md
-
+```
 📊 Commodities Modeled
 
 Rice (চাল)
