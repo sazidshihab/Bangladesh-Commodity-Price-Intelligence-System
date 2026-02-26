@@ -3,7 +3,7 @@
 A data-driven time series forecasting and market intelligence system designed to analyze, model, and predict essential commodity prices in Bangladesh.
 This project combines econometric modeling (SARIMAX), external shock analysis (Flood, Ramadan, Seasonal effects), and interactive business intelligence visualization using Retool.
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 
 Analyze historical commodity price behavior in Bangladesh
 Measure impact of external shocks (Ramadan, Flood, Seasons)
@@ -11,7 +11,7 @@ Compare stationary (d=0) vs differenced (d=1) models
 Understand innovation-driven volatility
 Build a live decision-support dashboard
 
-🧠 Methodology
+# 🧠 Methodology
 
 Time Series Decomposition (Trend, Seasonality, Residual)
 ACF / PACF diagnostics
@@ -24,7 +24,7 @@ Ramadan Effect
 Flood Shock
 Seasonal Structure (Winter, Pre-Monsoon, Monsoon, Post-Monsoon)
 
-##🏗 Project Architecture
+# 🏗 Project Architecture
 ```
 Bangladesh-Commodity-Price-Intelligence-System
 │
@@ -65,7 +65,7 @@ Bangladesh-Commodity-Price-Intelligence-System
 │
 └── README.md
 ```
-📊 Commodities Modeled
+# 📊 Commodities Modeled
 
 Rice (চাল)
 Wheat (আটা)
@@ -75,7 +75,7 @@ Broiler Chicken (মুরগি)
 Chickpeas (ছোলা)
 Soybean Oil (সয়াবিন তেল)
 
-📈 Key Insights
+# 📈 Key Insights
 
 Onion price significantly drops during Ramadan due to harvest timing and import policy.
 Chicken price shows weak Ramadan significance due to rapid supply adjustment.
@@ -83,7 +83,7 @@ Seasonal coefficients vary by product due to storage capacity and perishability.
 Market shows strong innovation-driven shock absorption behavior.
 External variables sometimes become statistically weak due to structural volatility.
 
-🖥 Live Dashboard
+# 🖥 Live Dashboard
 
 Interactive visualization built using Retool.
 Provides:
@@ -95,7 +95,7 @@ Provides:
 🔗 Dashboard link available inside Live Retool Dashboard folder.
 👉 [Live Dashboard](https://saziddataalchemy.retool.com/embedded/public/09a6fa74-72cb-43d6-b29b-1e65150da2d6)
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 
 Python
 Pandas
@@ -105,17 +105,17 @@ SQL
 Retool
 GitHub
 
-🔍 Why This Project Matters
+# 🔍 Why This Project Matters
 Bangladesh’s commodity market is highly shock-sensitive and innovation-driven.
 This system attempts to statistically structure a market that is often perceived as unstable and intervention-driven.
 
-It serves as:
+## It serves as:
 # A forecasting tool
 # A market behavior analysis system
 # A portfolio-grade econometric project
 # A policy-impact exploration framework
 
-📌 Author
+### 📌 Author
 
 ## Sazid Shihab
 # Data Analyst | Time Series & Market Intelligence Enthusiast
