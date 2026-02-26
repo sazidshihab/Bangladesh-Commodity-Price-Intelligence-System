@@ -92,7 +92,10 @@ Shock impact visualization
 Forecast projection  
 
 🔗 Dashboard link available inside Live Retool Dashboard folder.
-👉 [Live Dashboard](https://saziddataalchemy.retool.com/embedded/public/09a6fa74-72cb-43d6-b29b-1e65150da2d6)
+<h3>🚀 Live Deployment</h3>
+<a href="https://saziddataalchemy.retool.com/embedded/public/09a6fa74-72cb-43d6-b29b-1e65150da2d6" target="_blank">
+  🔗 Launch Interactive Retool Dashboard
+</a> 
 
 ## ⚙️ Tech Stack  
 
@@ -117,6 +120,13 @@ A policy-impact exploration framework
 ## 📌 Author
 
 ## Sazid Shihab  
- Data Analyst | Time Series & Market Intelligence Enthusiast  
- 👉 [LinkedIn](https://www.linkedin.com/in/sazid-shihab/)  
- 👉 [CV](https://drive.google.com/file/d/1yeq0wLE7JvPPrXFaJ5ax-Ar9CbzXyKzC)
+ Data Analyst | Time Series & Market Intelligence Enthusiast 
+<h3>🚀 LinkedIn</h3>
+<a href="https://www.linkedin.com/in/sazid-shihab/" target="_blank">
+  🔗 LinkedIn
+</a>  
+<h3>🚀 CV</h3>
+<a href="https://drive.google.com/file/d/1yeq0wLE7JvPPrXFaJ5ax-Ar9CbzXyKzC" target="_blank">
+  🔗 CV
+</a> 
+
