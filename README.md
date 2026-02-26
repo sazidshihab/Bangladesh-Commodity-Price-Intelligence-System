@@ -87,10 +87,10 @@ External variables sometimes become statistically weak due to structural volatil
 
 Interactive visualization built using Retool.
 Provides:
->Historical price trends
->Model comparison (d=0 vs d=1)
->Shock impact visualization
->Forecast projection
+Historical price trends
+Model comparison (d=0 vs d=1)
+Shock impact visualization
+Forecast projection
 
 🔗 Dashboard link available inside Live Retool Dashboard folder.
 👉 [Live Dashboard](https://saziddataalchemy.retool.com/embedded/public/09a6fa74-72cb-43d6-b29b-1e65150da2d6)
@@ -110,12 +110,12 @@ Bangladesh’s commodity market is highly shock-sensitive and innovation-driven.
 This system attempts to statistically structure a market that is often perceived as unstable and intervention-driven.
 
 ## It serves as:
-## A forecasting tool
-## A market behavior analysis system
-## A portfolio-grade econometric project
-## A policy-impact exploration framework
+### A forecasting tool
+### A market behavior analysis system
+### A portfolio-grade econometric project
+### A policy-impact exploration framework
 
-# 📌 Author
+## 📌 Author
 
-# Sazid Shihab
+## Sazid Shihab
 ## Data Analyst | Time Series & Market Intelligence Enthusiast
