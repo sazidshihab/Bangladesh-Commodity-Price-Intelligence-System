@@ -97,6 +97,63 @@ Forecast projection
   🔗 Launch Interactive Retool Dashboard
 </a> 
 
+## 🤖 AI-Powered Assistant (Intelligent Query Engine)
+
+In addition to econometric modeling and forecasting, this project integrates a structured AI assistant powered by the OpenAI API.  
+The assistant enables users to interact with the system using natural language and is built using a multi-layer orchestration architecture.  
+
+## 🧠 Multi-Layer Question Classification
+
+Every user question is classified into one of four categories:  
+
+## 1️⃣ Generic
+Non-project-related questions.  
+Handled directly by the AI model without database access.  
+
+## 2️⃣ Project Logic
+Conceptual or analytical questions about the system.  
+Uses:  
+Project knowledge base  
+Econometric reasoning  
+Structural factor interpretation  
+Example:  
+"Why does onion price drop during Ramadan?"  
+
+## 3️⃣ Logic_Query (Hybrid Mode) 
+Activated when a question requires:  
+Database verification  
+AND analytical reasoning  
+
+Pipeline:  
+Natural language → PostgreSQL query generation  
+Query execution  
+
+Result retrieval  
+Contextual AI analysis using project knowledge  
+This reduces hallucination and ensures fact-grounded responses.  
+
+## 4️⃣ Data Mode
+Pure data retrieval tasks.  
+Pipeline:  
+Natural language → SQL conversion  
+
+Database execution  
+Structured output display  
+Basic contextual explanation  
+
+Example:  
+"Show highest onion price recorded."  
+
+## ⚙️ System Design Principles 
+
+Token-efficient context injection  
+Separation of reasoning and database operations  
+Weekly aggregation awareness  
+Schema-aware SQL generation  
+Verifiable data-driven responses  
+Optional voice output integration for accessibility  
+
+
 ## ⚙️ Tech Stack  
 
 Python  
