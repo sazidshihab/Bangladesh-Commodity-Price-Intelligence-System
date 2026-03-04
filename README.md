@@ -93,7 +93,7 @@ Forecast projection
 
 🔗 Dashboard link available inside Live Retool Dashboard folder.
 <h3>🚀 Live Deployment</h3>
-<a href="https://saziddataalchemy.retool.com/embedded/public/09a6fa74-72cb-43d6-b29b-1e65150da2d6" target="_blank">
+<a href="https://saziddataalchemy.retool.com/p/bangladesh_commodity_price_intelligence_system" target="_blank">
   🔗 Launch Interactive Retool Dashboard
 </a> 
 
