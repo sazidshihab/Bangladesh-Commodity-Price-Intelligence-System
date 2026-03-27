@@ -1,5 +1,9 @@
 # 🇧🇩 Bangladesh Commodity Price Intelligence System
 
+##Update: 
+Currently working with Airflow, Docker and DBT to retrive new data from TCB website and feed it to model and update it through Retool. The whole process will be maintain via Airflow and it will be fully automated.  
+Full ETL + Model building + Dashboard
+
 A data-driven time series forecasting and market intelligence system designed to analyze, model, and predict essential commodity prices in Bangladesh.
 This project combines econometric modeling (SARIMAX), external shock analysis (Flood, Ramadan, Seasonal effects), and interactive business intelligence visualization using Retool.
 
